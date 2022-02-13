@@ -24,7 +24,7 @@ Add the counted number in the variable
 Run the program and display the results
 
 ## PROGRAM:
-![input](./main.JPEG)
+![input](./main.jpeg)
 
 ![input](./file.jpeg)
 
